@@ -1,1 +1,97 @@
-
+[
+	{
+		"title": "Social Media",
+		"links": [
+			{
+				"text": "Gchain Twitter",
+				"url": "https://twitter.com/GenesysChain"
+			},
+			{
+				"text": "BlueLotusDAO Twitter",
+				"url": "https://twitter.com/BlueLotusGSYS"
+			},
+			{
+				"text": "Genesys View app Twitter",
+				"url": "https://twitter.com/GvaApp"
+			},
+			{
+				"text": "Genesys Network Discord",
+				"url": "https://discord.gg/XjHDMXQTjT"
+			},
+			{
+				"text": "Blue Hosting Twitter",
+				"url": "https://twitter.com/BlueHostingGsys"
+			},
+			{
+				"text": "Genesys Network Telegram",
+				"url": "https://web.telegram.org/a/#-1619157049"
+			}
+		]
+	},
+	{
+		"title": "Genesys Network Ecosystem",
+		"links": [
+			{
+				"text": "Genesys Faucet",
+				"url": "https://faucet.genesys.network/"
+			},
+			{
+				"text": "Gchain Testnet",
+				"url": "https://testnet-gchainexplorer.genesys.network/"
+			},
+			{
+				"text": "Blue Hosting",
+				"url": "https://www.bluehostingsys.com/en/"
+			},
+			{
+				"text": "Genesys View app",
+				"url": "https://www.genesysviewapp.io/"
+			},
+			{
+				"text": "Genesys Web Wallet",
+				"url": "https://genesyswallet.io/#/"
+			},
+			{
+				"text": "BlueLotusDAO",
+				"url": "https://www.bluelotusdao.org/"
+			},
+			{
+				"text": "Genesis of Blue NFT Marketplace",
+				"url": "https://www.genesisofblue.io/"
+			}
+		]
+	},
+	{
+		"title": "About Gchain",
+		"links": [
+			{
+				"text": "Contact Us",
+				"url": "https://helpdesk.genesys.network/"
+			},
+			{
+				"text": "Network Status",
+				"url": "https://status.genesys.network/"
+			},
+			{
+				"text": "API Documentation",
+				"url": "https://docs.genesys.network/"
+			},
+			{
+				"text": "Contact us for banners",
+				"url": "https://gchainexplorer.genesys.network/#"
+			},
+			{
+				"text": "Genesys Network Whitepaper",
+				"url": "https://genesyblockchain.gitbook.io/genesys-blockchain"
+			},
+			{
+				"text": "Brand Assets",
+				"url": "https://genesyblockchain.gitbook.io/genesys-blockchain/blue-lotus-governance/brand-and-logo"
+			},
+			{
+				"text": "Terms of Service",
+				"url": "https://genesyblockchain.gitbook.io/genesys-blockchain/genesys-blockchain-gchain/gchain-terms-and-conditions"
+			}
+		]
+	}
+]
