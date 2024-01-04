@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Genesys Network",
+		"url": "https://gchainexplorer.genesys.network",
+		"group": "Mainnets",
+		"icon": "https://gchainexplorer.genesys.network/static/network_icon.svg"
+	},
+	{
+		"title": "Genesys Testnet Explorer",
+		"url": "#",
+		"group": "Testnets",
+		"icon": "https://gchainexplorer.genesys.network/static/network_icon.svg"
+	}
+]
