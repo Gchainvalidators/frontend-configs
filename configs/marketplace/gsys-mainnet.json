@@ -39,7 +39,7 @@
     "author": "Genesys DEV",
     "id": "blue20bridge",
     "title": "Blue20 Bridge",
-    "logo": "https://blue20bridge.io/static/media/logo1.a38976b5.svg",
+    "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/blue20bridge.png",
     "categories": ["Bridge"],
     "shortDescription": "Official Genesys Network Bridge. Transfer Blue20 tokens to and from the Genesys Chain.",
     "site": "https://blue20bridge.io/bridge",
