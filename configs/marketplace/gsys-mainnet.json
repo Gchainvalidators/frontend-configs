@@ -1,1 +1,14 @@
-
+[
+  {
+    "author": "Dev Mexos",
+    "id": "powadap",
+    "title": "PowaDAP",
+    "logo": "https://powadap.com/logo512.png",
+    "categories": ["DeFi", "Tools", "Finance"],
+    "shortDescription": "Launchpad, Token Creator, Lottery Generator, Staking Pools Generator, Multisender, Lockers and more.",
+    "site": "https://powadap.com",
+    "external": true,
+    "description": "PowaDAP is a platform designed to amplify the impact of projects based on ERC-20 token standards. We introduce our platform as D-SaaS (Decentralized Software as a Service), where developers and entrepreneurs have the opportunity to offer various utilities to their audience using their tokens. Launchpad, Token Creator, Lottery Generator, Staking Pools Generator, Multisender, Lockers and more.",
+    "url": "https://powadap.com"
+  }
+]
