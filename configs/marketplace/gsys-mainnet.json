@@ -34,5 +34,17 @@
     "external": true,
     "description": "Stake on the Blue20 network to earn rewards and help support the network.",
     "url": "https://gchainstaking.com/"
+  },
+  {
+    "author": "Genesys DEV",
+    "id": "blue20bridge",
+    "title": "Blue20 Bridge",
+    "logo": "https://blue20bridge.io/static/media/logo1.a38976b5.svg",
+    "categories": ["Bridge"],
+    "shortDescription": "Official Genesys Network Bridge",
+    "site": "https://blue20bridge.io/bridge",
+    "external": true,
+    "description": "The G-Chain Bridge multi-token extension is the simplest way to transfer Blue20 tokens to and from the Genesys Chain.",
+    "url": "https://blue20bridge.io/bridge"
   }
 ]
