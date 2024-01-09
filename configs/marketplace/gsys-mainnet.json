@@ -28,7 +28,7 @@
     "id": "gchainstaking",
     "title": "GenesysStaking",
     "logo": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba/logo.png",
-    "categories": ["Finance"],
+    "categories": ["Finance", "Staking"],
     "shortDescription": "Stake on the Blue20 network to earn rewards and help support the network.",
     "site": "https://gchainstaking.com/",
     "external": true,
