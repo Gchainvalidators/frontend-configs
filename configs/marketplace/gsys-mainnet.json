@@ -10,5 +10,20 @@
     "external": true,
     "description": "PowaDAP is a platform designed to amplify the impact of projects based on ERC-20 token standards. We introduce our platform as D-SaaS (Decentralized Software as a Service), where developers and entrepreneurs have the opportunity to offer various utilities to their audience using their tokens. Launchpad, Token Creator, Lottery Generator, Staking Pools Generator, Multisender, Lockers and more.",
     "url": "https://powadap.com"
+  },
+  {
+    "author": "Genesys DEV",
+    "id": "bluelotusdao",
+    "title": "BlueLotusDAO",
+    "logo": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xb4A3F9D3cEce2c298e9b73113f7B6C2B9f9d61fF/logo.png",
+    "categories": ["DeFi", "Finance"],
+    "shortDescription": "BlueLotusDAO is the best place to trade and earn on networks such as Genesys Network.",
+    "site": "https://www.bluelotusdao.org/",
+    "external": true,
+    "description": "BlueLotusDAO is the best place to trade and earn on networks such as Genesys Network,  Ethereum, Polygon, Binance Smart Chain (BSC), Avax (Coming Soon); you can get the best rates for your token swaps and earn more with your token assets. Both in V2/V3.
+As DeFi's first multi-chain Dynamic Market Maker and the main protocol in BlueLotusDAO's liquidity hub, our platform is both a decentralized exchange (DEX) aggregator and a liquidity source with capital-efficient liquidity pools that earns fees for liquidity providers.
+Unlike the static/fixed nature of a typical AMM/DEX and other liquidity platforms in the space, BlueLotusDAO is designed to maximize the use of capital by enabling liquidity aggregation for the best rates, extremely high capital efficiency, and reacting to market conditions to optimize returns for liquidity providers.",
+    "url": "https://www.bluelotusdao.org/"
   }
+  
 ]
