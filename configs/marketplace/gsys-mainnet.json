@@ -41,7 +41,7 @@
     "title": "Blue20 Bridge",
     "logo": "https://blue20bridge.io/static/media/logo1.a38976b5.svg",
     "categories": ["Bridge"],
-    "shortDescription": "Official Genesys Network Bridge",
+    "shortDescription": "Official Genesys Network Bridge. Transfer Blue20 tokens to and from the Genesys Chain.",
     "site": "https://blue20bridge.io/bridge",
     "external": true,
     "description": "The G-Chain Bridge multi-token extension is the simplest way to transfer Blue20 tokens to and from the Genesys Chain.",
