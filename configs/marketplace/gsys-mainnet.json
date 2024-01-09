@@ -3,7 +3,7 @@
     "author": "Dev Mexos",
     "id": "powadap",
     "title": "PowaDAP",
-    "logo": "https://powadap.com/logo512.png",
+    "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/powabit.png",
     "categories": ["Launchpad", "Staking", "Lottery", "Locker", "Token Creator", "DeFi", "Tools", "Finance"],
     "shortDescription": "Launchpad, Token Creator, Lottery Generator, Staking Pools Generator, Multisender, Lockers and more.",
     "site": "https://powadap.com",
