@@ -46,5 +46,17 @@
     "external": true,
     "description": "The G-Chain Bridge multi-token extension is the simplest way to transfer Blue20 tokens to and from the Genesys Chain.",
     "url": "https://blue20bridge.io/bridge"
-  }
+  },
+{
+   "author": "Genesys DEV",
+    "id": "Genesys View App Launchpad",
+    "title": "GVA",
+    "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/gva.jpg",
+    "categories": ["Launchpad"],
+    "shortDescription": "Genesys View app Official Launchpad.",
+    "site": "https://gvalaunchpad.io/",
+    "external": true,
+    "description": "DeFi,coin analysis, peer-to-peer exchange, and the ultimate launchpad experience.",
+    "url": "https://gvalaunchpad.io/"
+   }
 ]
