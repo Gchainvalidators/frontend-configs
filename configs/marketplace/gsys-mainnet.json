@@ -12,10 +12,10 @@
     "url": "https://powadap.com"
   },
   {
-    "author": "Genesys DEV",
+    "author": "Genesys Network",
     "id": "bluelotusdao",
     "title": "BlueLotusDAO",
-    "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/Blue%20Lotus%20-%20%20Logo-07%20(2).png",
+    "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/Bluelotusdao.png",
     "categories": ["DEX", "Farming", "Staking", "DeFi", "Finance"],
     "shortDescription": "BlueLotusDAO is the best place to trade and earn on networks such as Genesys Network.",
     "site": "https://www.bluelotusdao.org/",
@@ -24,7 +24,7 @@
     "url": "https://www.bluelotusdao.org/"
   },
   {
-    "author": "Genesys DEV",
+    "author": "Genesys Network",
     "id": "gchainstaking",
     "title": "Genesys Staking",
     "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/gchainstaking.png",
@@ -36,7 +36,7 @@
     "url": "https://gchainstaking.com/"
   },
   {
-    "author": "Genesys DEV",
+    "author": "Genesys Network",
     "id": "blue20bridge",
     "title": "Blue20 Bridge",
     "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/blue20bridge.png",
@@ -48,7 +48,7 @@
     "url": "https://blue20bridge.io/bridge"
   },
 {
-   "author": "Genesys DEV",
+   "author": "Genesys Network",
     "id": "Genesys View App Launchpad",
     "title": "GVA",
     "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/GVA1.png",
