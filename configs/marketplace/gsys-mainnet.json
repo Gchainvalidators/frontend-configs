@@ -53,10 +53,10 @@
     "title": "GVA",
     "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/GVA1.png",
     "categories": ["Launchpad"],
-    "shortDescription": "Genesys View app Official Launchpad.",
+    "shortDescription": "Genesys View app official Genesys Network DeFi,Coin Analysis, Peer-to-peer Exchange & the ultimate launchpad experience.",
     "site": "https://gvalaunchpad.io/",
     "external": true,
-    "description": "DeFi,coin analysis, peer-to-peer exchange, and the ultimate launchpad experience.",
+    "description": "Genesys View app official Genesys Network DeFi,Coin Analysis, Peer-to-peer Exchange & the ultimate Launchpad experience..",
     "url": "https://gvalaunchpad.io/"
    },
   {
@@ -64,11 +64,11 @@
     "id": "Farm Kingdom",
     "title": " Farm Kingdom Farm & Earn",
     "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/Logofarmkingdom.png",
-    "categories": ["Game, Play & Earn, NFT"],
+    "categories": ["Game, Farm & Earn, NFT"],
     "shortDescription": "First Farm & Earn game on Genesys Network blockchain. Grow crops, create NFTs, and trade digital assets as you build your thriving kingdom. Start your journey today!",
     "site": "https://farmkingdom.xyz/",
     "external": true,
-    "description": "Trade digital assets as you build your thriving kingdom",
+    "description": "First Farm & Earn game on Genesys Network blockchain. Grow crops, create NFTs, and trade digital assets as you build your thriving kingdom. Start your journey today!",
     "url": "https://farmkingdom.xyz/"
    }
 ]
