@@ -70,5 +70,17 @@
     "external": true,
     "description": "First Farm & Earn game on Genesys Network blockchain. Grow crops, create NFTs, and trade digital assets as you build your thriving kingdom. Start your journey today!",
     "url": "https://farmkingdom.xyz/"
+   },
+{
+   "author": "Coincreate",
+    "id": "Coincreate",
+    "title": "Coincreate",
+    "logo": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/Logo%20Coincreate.png",
+    "categories": ["Contract Deployments, Developement Tools"],
+    "shortDescription": "CoinCreate offers a complete suite of tools for deploying tokens, staking contracts, vesting contracts, governance systems, NFT collections, and more - all from a single platform. !",
+    "site": "https://coincreate.io/",
+    "external": true,
+    "description": "CoinCreate offers a complete suite of tools for deploying tokens, staking contracts, vesting contracts, governance systems, NFT collections, and more - all from a single platform.!",
+    "url": "https://coincreate.io/"
    }
 ]
